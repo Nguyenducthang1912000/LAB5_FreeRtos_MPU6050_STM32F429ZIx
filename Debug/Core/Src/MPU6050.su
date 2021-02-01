@@ -1,0 +1,2 @@
+MPU6050.c:12:6:MPU6050_Init	32	static
+MPU6050.c:51:6:MPU6050_Read_Gyro	40	static
